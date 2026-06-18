@@ -60,7 +60,7 @@
 
 <!-- Stats -->
  ## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=osama-mohamoud2006%20&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-zvg3.vercel.app?user=osama-dev2206&theme=sakura-x)](https://git.io/streak-stats)
 
 
 
