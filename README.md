@@ -37,9 +37,16 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,visualstudio,vscode,git,github,notion" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,windows,visualstudio,vscode,git,github,notion" />
   </a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" alt="Microsoft SQL Server" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
+       height="48"
+       alt="Microsoft SQL Server" />
+
+  <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705"
+       height="48"
+       alt="draw.io" />
 </p>
 
 </p>
