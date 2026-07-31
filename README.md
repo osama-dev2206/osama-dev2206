@@ -21,7 +21,7 @@
 ## 👨‍💻 About Me 
 - 🎓 I’m a student at ERU (Egyptian Russian University) 
 - 🔭 Currently working through a roadmap to build a solid foundation in programming
-- 😒 I'm currently solving sql problems after doing some db design projects :) && Get Ready For ADO.Net 
+- 😒 I'm currently solving sql problems after doing some db design projects && Get Ready For ADO.Net 
 ---
 <div align="center">
   <a href="https://drive.google.com/file/d/1_bNUtecA7cLqLwKkWNL36nUF1D7txrAy/view?usp=sharing" target="_blank">
